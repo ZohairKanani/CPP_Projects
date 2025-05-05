@@ -70,12 +70,3 @@ In this assignment, we combine the core concepts of Object-Oriented Programming 
     ./library_management
     ```
 
-*Refer to the Library Management System directory for more detailed build instructions and documentation.*
-
----
-
-## Contributing
-Contributions to either project are welcome! Please fork this repository and submit a pull request with your improvements or bug fixes.
-
-## License
-[Specify your license information here, e.g., MIT License]
